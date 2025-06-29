@@ -1,6 +1,6 @@
 # Kyphosis Disease Prediction using Random Forest
 
-This project aims to predict the presence of **Kyphosis**, a spinal disorder, using a supervised machine learning approach. The dataset includes information about patients who have undergone corrective spinal surgery.
+This project aims to predict the presence of **Kyphosis**, a spinal disorder, using a supervised machine learning approach. The dataset includes information about patients who have undergone corrective spinal surgery
 
 ---
 
